@@ -1,16 +1,18 @@
 <div id="title" align="center">
 
+
 <p align="center">
   <a href="https://space.bilibili.com/3493277871377082">
     <img src="https://img.shields.io/badge/哔哩哔哩-MonthZifang-0080FF?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili">
   </a>
   <a href="https://github.com/MonthZifang">
     <img src="https://img.shields.io/badge/GitHub-MonthZifang-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+      <a href="mailto:MonthZifang@outlook.com">
+    <img src="https://img.shields.io/badge/Email-MonthZifang@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
+    
   </a>
 </p>
 
 </div>
 
 ![背景图](image/id10.png)
-
-
