@@ -59,29 +59,6 @@
 
 ---
 
-## 🌟 代表项目 / Featured Projects
-
-| 项目 | 简介 | 语言 | Stars |
-|------|------|------|-------|
-| [Mindustry-YF](https://github.com/MonthZifang/Mindustry-YF) | 魔改原版的服务端，提供更方便的管理接口 | Java | ★104 |
-| [Quelmara](https://github.com/MonthZifang/Quelmara) | 新一代的语言 Quelmara | Python | ★1 |
-| [mindustry-wiki-go](https://github.com/MonthZifang/mindustry-wiki-go) | Mindustry 中文百科（月月岛）—— Go + React 全栈，595 词条 / AI 知识库 API | Go / PLpgSQL | ★0 |
-| [yueyuedao-tech-opwrt](https://github.com/MonthZifang/yueyuedao-tech-opwrt) | 为企业用户提供更好更精简更美观的 OpenWrt | TypeScript | ★0 |
-| [SSO](https://github.com/MonthZifang/SSO) | 单点登录服务 | Go | ★0 |
-
-> 💡 想把自己最满意的仓库钉在首页？在 GitHub → 你的 Profile → **Customize your pins** 里挑选即可。
-
----
-
-## 🎯 最近在折腾 / Currently
-
-- 🛠️ 维护 **Mindustry-YF** 服务端魔改与社区
-- 🌐 运营 [Mindustry 中文百科](https://mindustry.wiki:1081)
-- 🧪 设计一门新语言 **Quelmara**
-- 🤖 用 GitHub Actions 自动化一切能自动化的事（比如成就农场 🏅）
-
----
-
 <div align="center">
 
 ![背景图](image/id10.png)
