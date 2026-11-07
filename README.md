@@ -6,8 +6,14 @@
 
 ### 你或许没听过我，但我会为我热爱的东西添砖加瓦 🧱
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=MonthZifang.MonthZifang)](https://github.com/MonthZifang)
-[![GitHub followers](https://img.shields.io/github/followers/MonthZifang?label=Followers&style=social)](https://github.com/MonthZifang?tab=followers)
+<p>
+  <a href="https://github.com/MonthZifang">
+    <img src="https://img.shields.io/badge/👀%20Profile%20Views-Count-blue?style=flat-square&logo=github&logoColor=white&color=0b3d91" alt="views"/>
+  </a>
+  <a href="https://github.com/MonthZifang?tab=followers">
+    <img src="https://img.shields.io/github/followers/MonthZifang?label=Followers&style=flat-square&logo=github&logoColor=white&color=0b3d91" alt="followers"/>
+  </a>
+</p>
 
 </div>
 
@@ -48,14 +54,14 @@
 
 ## 📊 GitHub 数据 / Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MonthZifang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="stats"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MonthZifang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonthZifang&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="langs"/>
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MonthZifang&theme=tokyonight&hide_border=true" height="165" alt="streak"/>
-</div>
+</p>
 
 ---
 
@@ -64,5 +70,7 @@
 ![背景图](image/id10.png)
 
 **“热爱可抵岁月漫长。”** ✨
+
+*Thanks for stopping by — 感谢你的到访* 🌿
 
 </div>
