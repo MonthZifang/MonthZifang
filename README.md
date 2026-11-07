@@ -27,9 +27,6 @@
   <a href="mailto:MonthZifang@outlook.com">
     <img src="https://img.shields.io/badge/Email-MonthZifang@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
   </a>
-  <a href="https://mindustry.wiki:1081">
-    <img src="https://img.shields.io/badge/Website-mindustry.wiki-00C7B7?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website">
-  </a>
 </p>
 
 ---
