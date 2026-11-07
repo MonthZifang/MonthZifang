@@ -67,8 +67,6 @@
 
 <div align="center">
 
-![背景图](image/id10.png)
-
 **“热爱可抵岁月漫长。”** ✨
 
 *Thanks for stopping by — 感谢你的到访* 🌿
