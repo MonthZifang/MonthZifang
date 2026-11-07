@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://github.com/MonthZifang">
-    <img src="https://img.shields.io/badge/👀%20Profile%20Views-Count-blue?style=flat-square&logo=github&logoColor=white&color=0b3d91" alt="views"/>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=MonthZifang.MonthZifang" alt="visitor count"/>
   </a>
   <a href="https://github.com/MonthZifang?tab=followers">
     <img src="https://img.shields.io/github/followers/MonthZifang?label=Followers&style=flat-square&logo=github&logoColor=white&color=0b3d91" alt="followers"/>
