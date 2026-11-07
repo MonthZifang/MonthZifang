@@ -4,8 +4,6 @@
 
 <img src="image/id10.png" alt="banner" width="100%" />
 
-### 你或许没听过我，但我会为我热爱的东西添砖加瓦 🧱
-
 <p>
   <a href="https://github.com/MonthZifang">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=MonthZifang.MonthZifang" alt="visitor count"/>
@@ -18,8 +16,6 @@
 </div>
 
 ---
-
-## 🔗 链接 / Connect
 
 <p align="center">
   <a href="https://space.bilibili.com/3493277871377082">
@@ -38,7 +34,6 @@
 
 ---
 
-## 🧰 技术栈 / Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
@@ -52,12 +47,8 @@
 
 ---
 
-## 📊 GitHub 数据 / Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MonthZifang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonthZifang&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="langs"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MonthZifang&theme=tokyonight&hide_border=true" height="165" alt="streak"/>
