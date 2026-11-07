@@ -31,18 +31,6 @@
 
 ---
 
-## 🏢 组织 / Organizations
-
-<p align="center">
-  <a href="https://github.com/tomorrowsetout">
-    <img src="https://avatars.githubusercontent.com/u/263268479?v=4" width="72" height="72" alt="tomorrowsetout" style="border-radius:50%"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/tomorrowsetout"><strong>@tomorrowsetout</strong></a><br/>
-  我们一起组乐队好不好 ~ ~ ~ 要组一辈子的乐队哦 ~ ~
-</p>
 
 ---
 
@@ -65,13 +53,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MonthZifang&theme=tokyonight&hide_border=true" height="165" alt="streak"/>
 </p>
 
----
-
-## 🏆 GitHub 成就 / Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MonthZifang&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies"/>
-</p>
 
 ---
 
