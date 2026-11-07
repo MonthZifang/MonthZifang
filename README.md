@@ -6,7 +6,7 @@
 
 <p>
   <a href="https://github.com/MonthZifang">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=MonthZifang.MonthZifang" alt="visitor count"/>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=MonthZifang.MonthZifang&style=flat-square&color=0b3d91" alt="visitor count"/>
   </a>
   <a href="https://github.com/MonthZifang?tab=followers">
     <img src="https://img.shields.io/github/followers/MonthZifang?label=Followers&style=flat-square&logo=github&logoColor=white&color=0b3d91" alt="followers"/>
@@ -49,6 +49,14 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MonthZifang&theme=tokyonight&hide_border=true" height="165" alt="streak"/>
+</p>
+
+---
+
+## 🏆 GitHub 成就 / Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MonthZifang&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies"/>
 </p>
 
 ---
